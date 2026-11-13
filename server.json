@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Nero-Engine/spark-pack",
+  "title": "Spark Pack",
+  "description": "Cable sizing, Part P, certificate checks and G98/G99 for UK electricians' AI assistants",
+  "version": "1.1.0",
+  "repository": {
+    "url": "https://github.com/Nero-Engine/spark-pack-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://spark-pack.nerolabs.workers.dev/docs",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://spark-pack.nerolabs.workers.dev/mcp"
+    }
+  ]
+}
